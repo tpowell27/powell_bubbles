@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export3.dtd">
+<en-export export-date="20150416T200431Z" application="Evernote" version="Evernote Mac 6.0.8 (451398)">
+<note><title>.git!</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div>git.init</div>
+<div><br/></div>
+<div>1. Add</div>
+<div>     git add .</div>
+<div>2. Commit</div>
+<div>     git commit -m “&quot;</div>
+<div>3. Push</div>
+<div>     put everything on Github</div>
+<div>     git push</div>
+</en-note>
+]]></content><created>20150407T000747Z</created><updated>20150407T010459Z</updated><note-attributes><author>travispowell27@yahoo.com</author><source>desktop.mac</source><reminder-order>0</reminder-order></note-attributes></note>
+</en-export>
